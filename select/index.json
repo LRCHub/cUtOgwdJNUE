@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "More One Night",
+  "base_artist": "チト（CV：水瀬いのり）、ユーリ（CV：久保ユリカ）",
+  "createdAt": "2025-12-12T00:26:56.082474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "More One Night",
+      "artist": "Chito & Yuuri",
+      "has_synced": true,
+      "path": "select/01_More_One_Night_Chito_&_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "More One Night",
+      "artist": "Chito (CV: Inori Minase), Yuuri (CV: Yurika Kubo)",
+      "has_synced": true,
+      "path": "select/02_More_One_Night_Chito_(CV__Inori_Minase),_Yuuri_(CV__Yurika_Kubo).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "More One Night (instrumental)",
+      "artist": "Chito (CV: Inori Minase), Yuuri (CV: Yurika Kubo)",
+      "has_synced": true,
+      "path": "select/03_More_One_Night_(instrumental)_Chito_(CV__Inori_Minase),_Yuuri_(CV__Yurika_Kubo).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MORE ONE NIGHT",
+      "artist": "チト(CV:水瀬いのり) feat. ユーリ(CV:久保ユリカ)",
+      "has_synced": true,
+      "path": "select/04_MORE_ONE_NIGHT_チト(CV_水瀬いのり)_feat._ユーリ(CV_久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "More One Night",
+      "artist": "Chito(CV:Minase, Inori)、Yuuri(CV:Kubo, Yurika)",
+      "has_synced": true,
+      "path": "select/05_More_One_Night_Chito(CV_Minase,_Inori)、Yuuri(CV_Kubo,_Yurika).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "More One Night (instrumental)",
+      "artist": "Chito(CV:Minase, Inori)、Yuuri(CV:Kubo, Yurika)",
+      "has_synced": true,
+      "path": "select/06_More_One_Night_(instrumental)_Chito(CV_Minase,_Inori)、Yuuri(CV_Kubo,_Yurika).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MORE ONE NIGHT",
+      "artist": "チト(CV:水瀬いのり), ユーリ(CV:久保ユリカ)",
+      "has_synced": true,
+      "path": "select/07_MORE_ONE_NIGHT_チト(CV_水瀬いのり),_ユーリ(CV_久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "More One Night",
+      "artist": "チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)",
+      "has_synced": true,
+      "path": "select/08_More_One_Night_チト(CV_水瀬いのり)、ユーリ(CV_久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "More One Night",
+      "artist": "CHITO(CV:INORI MINASE), YUURI(CV:YURIKA KUBO)",
+      "has_synced": true,
+      "path": "select/09_More_One_Night_CHITO(CV_INORI_MINASE),_YUURI(CV_YURIKA_KUBO).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "More One Night",
+      "artist": "チト(CV:水瀬いのり)",
+      "has_synced": true,
+      "path": "select/10_More_One_Night_チト(CV_水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "More One Night (instrumental)",
+      "artist": "Chito(CV:Inori Minase)、Yuuri(CV:Yurika Kubo)",
+      "has_synced": true,
+      "path": "select/11_More_One_Night_(instrumental)_Chito(CV_Inori_Minase)、Yuuri(CV_Yurika_Kubo).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "More One Night",
+      "artist": "Chito(CV:Inori Minase)、Yuuri(CV:Yurika Kubo)",
+      "has_synced": true,
+      "path": "select/12_More_One_Night_Chito(CV_Inori_Minase)、Yuuri(CV_Yurika_Kubo).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MORE ONE NIGHT",
+      "artist": "チト(CV:水瀬いのり)",
+      "has_synced": true,
+      "path": "select/13_MORE_ONE_NIGHT_チト(CV_水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "More One Night",
+      "artist": "Minase Inori & Kubo Yurika",
+      "has_synced": true,
+      "path": "select/14_More_One_Night_Minase_Inori_&_Kubo_Yurika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "More One Night",
+      "artist": "チト/ユーリ(水瀬いのり/久保ユリカ)",
+      "has_synced": false,
+      "path": "select/pl_01_More_One_Night_チト_ユーリ(水瀬いのり_久保ユリカ).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "More One Night",
+      "artist": "チト/ユーリ(水瀬いのり/久保ユリカ)",
+      "has_synced": false,
+      "path": "select/pl_02_More_One_Night_チト_ユーリ(水瀬いのり_久保ユリカ).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "More One Night",
+      "artist": "チト/ユーリ(水瀬いのり/久保ユリカ)",
+      "has_synced": false,
+      "path": "select/pl_03_More_One_Night_チト_ユーリ(水瀬いのり_久保ユリカ).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "More One Night",
+      "artist": "チト/ユーリ(水瀬いのり/久保ユリカ)",
+      "has_synced": false,
+      "path": "select/pl_04_More_One_Night_チト_ユーリ(水瀬いのり_久保ユリカ).txt"
+    }
+  ]
+}
